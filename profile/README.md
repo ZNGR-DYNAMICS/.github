@@ -1,14 +1,14 @@
 # ZNGR DYNAMICS
+## Creating stunning web experiences. 
+Carefully manufactured web-experiences to represent your mission world-wide. From individuals to corporate. 
 
-test
+Welcome to [ZNGR DYNAMICS](https://zngr-dynamics.ch/). 
 
-<!--
+This GitHub organisation includes all projects from ZNGR, created for clients or for the platform itself. 
 
-**Here are some ideas to get you started:**
+Documentation about the platform and projects is private. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tech Stack
+We create stunning web-experiences incorporating newest trends and features with the help of the following tech stack. 
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,html,css,js,php,mysql,mongodb,notion,md,figma"/>
