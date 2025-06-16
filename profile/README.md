@@ -13,5 +13,5 @@ We create stunning web-experiences incorporating newest trends and features with
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,html,css,js,php,mysql,mongodb,notion,md,figma"/>
 
-## Orgazniation Documentation
+## Organization Documentation
 Please visit the internal documentation section for more information about the organization, [here](https://github.com/ZNGR-DYNAMICS/internal-docs). 
