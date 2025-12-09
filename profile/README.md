@@ -11,7 +11,7 @@ Documentation about the platform and projects is private.
 ## Tech Stack
 We create stunning web-experiences incorporating newest trends and features with the help of the following tech stack. 
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,html,css,js,php,mysql,mongodb,notion,md,figma"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,ts,html,css,js,php,mysql,mongodb,md,figma"/>
 
 ## Organization Documentation
 Please visit the internal documentation section for more information about the organization, [here](https://github.com/ZNGR-DYNAMICS/internal-docs). 
