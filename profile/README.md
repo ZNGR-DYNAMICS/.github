@@ -1,12 +1,12 @@
 # ZNGR DYNAMICS
-## Creating stunning web experiences. 
+**Creating stunning web experiences.** 
 Carefully manufactured web-experiences to represent your mission world-wide. From individuals to corporate. 
 
 Welcome to [ZNGR DYNAMICS](https://zngr-dynamics.ch/). 
 
-This GitHub organization includes all projects from ZNGR, created for clients or for the platform itself. 
+This GitHub organization includes all projects from ZNGR, created for individual clients or for the organization itself. 
 
-Documentation about the platform and projects is private. 
+Documentation and individual projects are private. 
 
 ## Tech Stack
 We create stunning web-experiences incorporating newest trends and features with the help of the following tech stack. 
